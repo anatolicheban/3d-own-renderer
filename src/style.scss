@@ -1,0 +1,23 @@
+:root {
+  background-color: #242424;
+}
+
+body {
+  margin: 0;
+}
+
+html, body, #app {
+  height: 100%;
+  width: 100%;
+}
+
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#viewer {
+  height: 100%;
+  width: 100%;
+}
